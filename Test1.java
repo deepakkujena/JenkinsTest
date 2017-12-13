@@ -1,5 +1,5 @@
 
-public class Test{
+public class Test1{
 	public static void main(String []str){
 		System.out.printn("First Program");
 	}
